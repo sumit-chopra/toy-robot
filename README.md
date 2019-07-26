@@ -24,8 +24,8 @@ This programming excercise has been solved using the following tools :
 
 config.properties is the configuration file which holds the following configuration
 
-```table.northmost=5
-table.eastmost=5```
+```table.northmost=5```
+```table.eastmost=5```
 
 ## Unit Tests
 
